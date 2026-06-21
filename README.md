@@ -1,2 +1,6 @@
 # maya_mel_FingerPreset_HIK
-“Finger” presets for HumanIK
+FingerPreset_HIK.mel
+< Animation / Motion >
+
+HumanIKの「指」のプリセット集です。
+This is a collection of “Finger” presets for HumanIK.
